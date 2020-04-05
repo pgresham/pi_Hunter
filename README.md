@@ -21,7 +21,7 @@ The current version is written for *nix systems.
 Using pi HUNTER:
 Pretty straightforward, select whether you want to search IPv4 or IPv6 addresses, then enter the start and end addresses for the block. pi HUNTER check the default username 'pi' and password 'raspberry' on each address and returns IPs that contain a default credentialed (and therefore stupidly vulnerable) pi. 
 
-NOTE: As of this version, when a pi is encountered with the default username but NOT a default password, you will be in a pop-up to try another password. What you do here is up to you. The window has a Cancel button which you are invited to use.
+NOTE: As of this version, when a pi is encountered with the default username but NOT a default password, you will be given a pop-up to try another password. What you do here is up to you. The window has a Cancel button which you are invited to use.
 
 --------------------
- 
+
